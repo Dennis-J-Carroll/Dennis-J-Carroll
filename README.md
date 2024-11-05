@@ -1,6 +1,6 @@
 # Dennis J. Carroll
 
-👋 Hi there! I'm Dennis J. Carroll, an aspiring data scientist with a passion for Machine Learning, Data Science, and all things analytical and creative. Welcome to my GitHub profile!
+👋 Hello I'm Dennis, an aspiring data scientist with a passion for Machine Learning, Data Science, and all things analytical and creative. Welcome to my GitHub profile!
 
 ---
 
