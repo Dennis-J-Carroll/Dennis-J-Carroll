@@ -4,7 +4,7 @@
 I'm currently pursuing a Master's degree in Data Science, where I'm diving deep into the world of data analytics and machine learning. My academic and personal projects are fueled by a love of discovery, innovation, and a commitment to building impactful solutions.
 
 ### Current Endeavors
-- **Master's Studies**: Specializing in advanced data modeling, machine learning, and big data analytics.
+- **Master's Studies**: Specializing in advanced data modeling, machine learning, and data analytics.
 - **Self-Learning**: Working on development projects that focus on metrics implementation and feature engineering to optimize performance.
 - **Development Focus**: Exploring development structure, measuring and improving various metrics, and engineering features to enrich data-driven models.
 
