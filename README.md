@@ -7,13 +7,15 @@ Background: data science, machine learning, and scalable frontend architecture. 
 
 
 
-
+'''
 |\\\\\\\\\/////////|
  |\\\\\\\\|///////|
- |     __   _/-  |
- |     |_.| |_.| |
+ |     __   _/-   |
+ |     |_.| |_.|  |
  |        VV      |
  |    \________/  |
- |________________|
+ |________________| 
+
+'''
 
 Open to freelance visualization work and research collaborations. denniscarrollj@gmail.com
