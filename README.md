@@ -4,6 +4,10 @@ I take static papers and complex data and rebuild them as explorable, web-based 
 
 My recent work includes a 3D hypersphere explorer for mathematical topology and interactive tools for transformer mechanistic interpretability.
 Background: data science, machine learning, and scalable frontend architecture. Currently building visualization systems for researchers and technical teams.
+
+
+
+
 |\\\\\\\\\/////////|
  |\\\\\\\\|///////|
  |     __   _/-  |
